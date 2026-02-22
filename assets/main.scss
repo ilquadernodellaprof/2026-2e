@@ -1,0 +1,37 @@
+---
+---
+
+$background-color: #fdfaf5;
+$text-color: #2d2d2d;
+
+@import "minima";
+
+body {
+  background-color: $background-color;
+}
+
+.site-header {
+  background-color: #7a9e7e;
+  border-top: none;
+  border-bottom: none;
+}
+
+.site-title, .site-title:visited {
+  color: #fdfaf5;
+}
+
+.site-nav .page-link {
+  color: #fdfaf5;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #7a9e7e;
+}
+
+a {
+  color: #6b4c8a;
+}
+
+a:visited {
+  color: #4e3666;
+}
