@@ -1,5 +1,3 @@
-# Classe 2E
-
 Ciao fanciulli! Qui trovate il materiale che useremo durante l'anno.
 
 ## Laboratorio di scrittura
