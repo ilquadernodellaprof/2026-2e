@@ -1,6 +1,6 @@
 # Classe 2E
 
-Ciao ragazzi! Qui trovate il materiale che useremo durante l'anno.
+Ciao fanciulli! Qui trovate il materiale che useremo durante l'anno.
 
 ## Laboratorio di scrittura
 [Vai alla sezione](scrittura.md)
