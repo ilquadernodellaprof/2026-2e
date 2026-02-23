@@ -1,4 +1,6 @@
-# Laboratorio di lettura
+---
+title:  Laboratorio di lettura
+---
 
 *Qui troverete tutto il materiale relativo a questa sezione. Aggiornerò la pagina man mano che procediamo.*
 
