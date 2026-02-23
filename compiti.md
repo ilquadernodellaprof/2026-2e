@@ -1,4 +1,6 @@
-# Ultimi compiti assegnati
+---
+title: Ultimi compiti assegnati
+---
 
 **Al momento niente.**
 
