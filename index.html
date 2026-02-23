@@ -1,0 +1,107 @@
+---
+---
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Classe 2E - a.s. 2025/2026</title>
+  <link rel="icon" type="image/png" href="https://ilquadernodellaprof.github.io/assets/icons/icon-192.png">
+  <meta name="theme-color" content="#7a9e7e">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: #fdfaf5;
+      font-family: Georgia, serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+      text-align: center;
+    }
+
+    h1 {
+      color: #7a9e7e;
+      font-size: 2rem;
+      margin-bottom: 0.8rem;
+    }
+
+    p {
+      color: #2d2d2d;
+      font-size: 1.1rem;
+      margin-bottom: 2.5rem;
+      max-width: 500px;
+      opacity: 0.9;
+    }
+
+    .bottoni {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      width: 100%;
+      max-width: 320px;
+      margin-bottom: 2.5rem;
+    }
+
+    .bottone {
+      display: block;
+      padding: 1.2rem 1.5rem;
+      border-radius: 14px;
+      text-decoration: none;
+      font-family: Georgia, serif;
+      font-size: 1.1rem;
+      color: #fdfaf5;
+      background-color: #a888c0;
+      transition: transform 0.1s, opacity 0.1s;
+    }
+
+    .bottone:active {
+      transform: scale(0.97);
+      opacity: 0.85;
+    }
+
+    .bottone.compiti {
+      background-color: #6b4c8a;
+      font-weight: bold;
+    }
+
+    .bottone.b2 { background-color: #a888c0; }
+    .bottone.b3 { background-color: #b89ccc; }
+    .bottone.b4 { background-color: #c8b0d8; color: #2d2d2d; }
+    .bottone.b5 { background-color: #d8c4e4; color: #2d2d2d; }
+    .bottone.b6 { background-color: #e8d8f0; color: #2d2d2d; }
+
+    .torna {
+      color: #7a9e7e;
+      font-size: 0.9rem;
+      text-decoration: underline;
+      opacity: 0.8;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Classe 2E</h1>
+
+  <p>Questa è la pagina del mio quaderno dedicata alla tua classe. Clicca sui bottoni per aprire le sezioni.</p>
+
+  <div class="bottoni">
+    <a class="bottone compiti" href="compiti.md">Ultimi compiti assegnati</a>
+    <a class="bottone b2" href="lettura.md">Laboratorio di lettura</a>
+    <a class="bottone b3" href="scrittura.md">Laboratorio di scrittura</a>
+    <a class="bottone b4" href="lingua.md">Riflessione sulla lingua</a>
+    <a class="bottone b5" href="storia.md">Dispense di storia</a>
+    <a class="bottone b6" href="geografia.md">Dispense di geografia</a>
+  </div>
+
+  <a class="torna" href="https://ilquadernodellaprof.github.io">↩ Torna alla pagina principale</a>
+
+</body>
+</html>
