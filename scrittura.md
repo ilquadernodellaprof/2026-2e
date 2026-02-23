@@ -1,4 +1,6 @@
-# Laboratorio di scrittura
+---
+title:  Laboratorio di scrittura
+---
 
 *Qui troverete tutto il materiale relativo a questa sezione. Aggiornerò la pagina man mano che procediamo.*
 
