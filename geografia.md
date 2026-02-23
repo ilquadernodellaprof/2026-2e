@@ -1,4 +1,6 @@
-# Dispense di geografia
+---
+title:  Dispense di geografia
+---
 
 *Qui troverete tutto il materiale relativo a questa sezione. Aggiornerò la pagina man mano che procediamo.*
 
