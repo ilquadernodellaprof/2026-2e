@@ -1,4 +1,6 @@
-# Dispense di storia
+---
+title:  Dispense di storia
+---
 
 *Qui troverete tutto il materiale relativo a questa sezione. Aggiornerò la pagina man mano che procediamo.*
 
