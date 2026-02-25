@@ -6,6 +6,7 @@ title:  Dispense di geografia
 
 ---
 
-## [Titolo primo argomento]
+## La filiera del farmaco in Europa
 
-[Testo o link alla dispensa]
+[Clicca qui per aprire la dispensa](https://ilquadernodellaprof.github.io/geografia/farmaco)
+*Assegnata da leggere per il 27 febbraio*
