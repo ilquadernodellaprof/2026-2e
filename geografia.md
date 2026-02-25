@@ -8,5 +8,6 @@ title:  Dispense di geografia
 
 ## La filiera del farmaco in Europa
 
-[Clicca qui per aprire la dispensa](https://ilquadernodellaprof.github.io/geografia/farmaco)
+[Clicca qui per aprire la dispensa.](https://ilquadernodellaprof.github.io/geografia/farmaco)
+
 *Assegnata da leggere per il 27 febbraio*
