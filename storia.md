@@ -6,6 +6,11 @@ title:  Dispense di storia
 
 ---
 
-## [Titolo primo argomento]
+## il Settecento
 
-[Testo o link alla dispensa]
+#### Clicca sul nome della dispensa per aprirla.
+
+- ### [La rivoluzione industriale](https://ilquadernodellaprof.github.io/storia/rivindustriale)
+- ### [La rivoluzione americana](https://ilquadernodellaprof.github.io/storia/rivamericana)
+- ### [La rivoluzione francese](https://ilquadernodellaprof.github.io/storia/rivfrancese)
+- ### [Napoleone Bonaparte](https://ilquadernodellaprof.github.io/storia/napoleone)
