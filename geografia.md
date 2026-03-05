@@ -10,13 +10,13 @@ title:  Dispense di geografia
 
 [Clicca qui per aprire la scheda.](https://ilquadernodellaprof.github.io/geografia/lessico)
 
-## La filiera del farmaco in Europa
+## La filiera del lusso e della moda in Europa
 
 [Clicca qui per aprire la dispensa.](https://ilquadernodellaprof.github.io/geografia/lusso)
 
 *Assegnata da leggere per il 6 marzo*
 
-## La filiera del lusso e della moda in Europa
+## La filiera del farmaco in Europa
 
 [Clicca qui per aprire la dispensa.](https://ilquadernodellaprof.github.io/geografia/farmaco)
 
