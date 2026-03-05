@@ -16,7 +16,7 @@ title:  Dispense di geografia
 
 *Assegnata da leggere per il 6 marzo*
 
-## La filiera del farmaco in Europa
+## La filiera del lusso e della moda in Europa
 
 [Clicca qui per aprire la dispensa.](https://ilquadernodellaprof.github.io/geografia/farmaco)
 
