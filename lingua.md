@@ -6,6 +6,12 @@ title: Appunti di riflessione sulla lingua
 
 ---
 
+## Ruolo semantico e funziona semantica
+[In questo appunto](https://ilquadernodellaprof.github.io/lingua/ruolosemantico) viene spiegato cos'è il **ruolo semantico** e come non confonderlo con la funzione sintattica (soggetto, oggetto ecc.)
+
+## La prova della staccabilità
+[In questo appunto](https://ilquadernodellaprof.github.io/lingua/staccabile) trovi spiegata la **prova della staccabilità**, utile per distinguere un argomento del verbo da un'espansione ai margini.
+
 ## Le aree semantiche del verbo (24 febbraio)
 In questo appunto abbiamo riassunto quali sono le principali aree semantiche (=di significato) dei verbi bivalenti e trivalenti italiani.
 
