@@ -1,8 +1,6 @@
 ---
 title: Ultimi compiti assegnati
 ---
-**Per il 10 marzo** 
+**Per il 17 marzo** 
 
-Svolgi gli esercizi 2 e 3 che trovi [cliccando qui](https://ilquadernodellaprof.github.io/lingua/es/staccabile).
-
-Se vuoi ripassare la lezione che spiega come fare gli esercizi, [clicca qui](https://ilquadernodellaprof.github.io/lingua/staccabile). 
+Svolgi gli esercizi che trovi [aprendo questo link](https://ilquadernodellaprof.github.io/lingua/es/ruolosemantico). 
