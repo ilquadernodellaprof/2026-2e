@@ -28,23 +28,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #7a9e7e;
 }
 
-a {
-  color: #6b4c8a;
-}
-
-a:visited {
-  color: #4e3666;
-}
-details {
-  border: 2px solid #6b4c8a; /* Colore dei link per il bordo dei box a scomparsa */
-  border-radius: 8px;
-  transition: all 0.3s ease;
-  padding: 5px;
-}
-
-summary {
-  color: #7a9e7e;           /* Colore dei titoli per i box  scomparsa*/
-  font-weight: bold;
-  cursor: pointer;
-  outline: none;
+.page-content a:not(.btn-stampa):not(.btn-torna):not(.font-btn) {
+  color: #0097a7;
+  text-decoration: underline dashed;
 }
