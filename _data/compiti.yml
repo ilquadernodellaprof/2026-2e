@@ -1,12 +1,16 @@
-# Modifica solo questo file per aggiornare i compiti.
+# Modifica questo file per aggiornare i compiti.
 # Aggiungi o rimuovi voci secondo le materie assegnate.
 # Le materie riconosciute sono: Italiano, Storia, Geografia
 # "link" è opzionale: se non c'è un link, cancella o commenta quella riga.
 
 - materia: Italiano
-  scadenza: 20 marzo
+  scadenza: venerdì 20 marzo
   testo: Svolgi gli esercizi che trovi aprendo il link.
   link: https://ilquadernodellaprof.github.io/lingua/es/ruolosemantico
+
+- materia: Storia
+  scadenza: mercoledì 21 marzo
+  testo: Leggi le pp. 45–50 e rispondi alle domande a fine capitolo.
 
 # - materia: Storia
 #   scadenza: 21 marzo
