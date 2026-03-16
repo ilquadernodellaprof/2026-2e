@@ -1,16 +1,3 @@
-# Modifica questo file per aggiornare i compiti.
-# Aggiungi o rimuovi voci secondo le materie assegnate.
-# Le materie riconosciute sono: Italiano, Storia, Geografia
-# "link" è opzionale. Puoi mettere uno o più link, ognuno con url e testo.
-# Usa questa sintassi:
-#- materia: Italiano Storia Geografia
-#  scadenza: GIORNO DATA
-#  testo: CONSEGNA.
-#  link:
-#    - url: https://ilquadernodellaprof.github.io/LINK1
-#      testo: TESTO LINK1
-#    - url: LINK2
-#      testo: TESTO LINK2
 - materia: Italiano
   scadenza: martedì 17 marzo
   testo: Svolgi gli esercizi sul ruolo semantico.
