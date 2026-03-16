@@ -1,0 +1,9 @@
+- materia: Italiano
+  scadenza: lunedì 20 marzo
+  testo: Descrizione del compito.
+  link:
+    - url: https://...
+      testo: Testo bottone 1
+    - url: https://...
+      testo: Testo bottone 2
+# il file compiti.md riconosce Italiano, Storia, Geografia
