@@ -1,22 +1,19 @@
 # Modifica questo file per aggiornare i compiti.
 # Aggiungi o rimuovi voci secondo le materie assegnate.
 # Le materie riconosciute sono: Italiano, Storia, Geografia
-# "link" è opzionale: se non c'è un link, cancella o commenta quella riga.
-
+# "link" è opzionale. Puoi mettere uno o più link, ognuno con url e testo.
+# Usa questa sintassi:
+#- materia: Italiano Storia Geografia
+#  scadenza: GIORNO DATA
+#  testo: CONSEGNA.
+#  link:
+#    - url: https://ilquadernodellaprof.github.io/LINK1
+#      testo: TESTO LINK1
+#    - url: LINK2
+#      testo: TESTO LINK2
 - materia: Italiano
-  scadenza: venerdì 20 marzo
-  testo: Svolgi gli esercizi che trovi aprendo il link.
-  link: https://ilquadernodellaprof.github.io/lingua/es/ruolosemantico
-
-- materia: Storia
-  scadenza: mercoledì 21 marzo
-  testo: Leggi le pp. 45–50 e rispondi alle domande a fine capitolo.
-
-# - materia: Storia
-#   scadenza: 21 marzo
-#   testo: Leggi le pp. 45–50 e rispondi alle domande a fine capitolo.
-
-# - materia: Geografia
-#   scadenza: 22 marzo
-#   testo: Porta il libro e il quaderno.
-#   link: https://...
+  scadenza: martedì 17 marzo
+  testo: Svolgi gli esercizi sul ruolo semantico.
+  link:
+    - url: https://ilquadernodellaprof.github.io/lingua/es/ruolosemantico
+      testo: Apri questa pagina.
