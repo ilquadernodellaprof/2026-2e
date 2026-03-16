@@ -88,7 +88,7 @@ layout: page
     {% if compito.link %}
       <div class="compito-links">
         {% for l in compito.link %}
-          <a class="compito-link" href="{{ l.url }}" target="_blank">{{ l.testo }} →</a>
+          <a class="compito-link" href="{{ l.url }}">{{ l.testo }} →</a>
         {% endfor %}
       </div>
     {% endif %}
