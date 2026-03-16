@@ -66,8 +66,8 @@ layout: page
 .materia-italiano .compito-testo,
 .materia-italiano .compito-scadenza { color: #2d2d2d; }
 
-.materia-storia    { border-left-color: #c8651a; color: #c8651a; }
-.materia-storia .compito-separatore { background: linear-gradient(to right, transparent, #c8651a, transparent); }
+.materia-storia    { border-left-color: #ff6600; color: #ff6600; }
+.materia-storia .compito-separatore { background: linear-gradient(to right, transparent, #ff6600, transparent); }
 .materia-storia .compito-testo,
 .materia-storia .compito-scadenza { color: #2d2d2d; }
 
