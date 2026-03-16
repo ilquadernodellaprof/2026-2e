@@ -1,5 +1,5 @@
 ---
-title: Lingua
+title: Appunti di riflessione sulla lingua
 layout: page
 ---
 
