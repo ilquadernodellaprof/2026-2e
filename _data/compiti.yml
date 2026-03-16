@@ -4,3 +4,21 @@
   link:
     - url: https://ilquadernodellaprof.github.io/lingua/es/ruolosemantico
       testo: Apri questa pagina.
+
+- materia: Geografia
+  scadenza: mercoledì 18 marzo
+  testo: Rileggi la dispensa sul lusso e la moda in Europa.
+    - url: https://ilquadernodellaprof.github.io/geografia/lusso
+      testo: Apri la dispensa
+
+- materia: Storia
+  scadenza: mercoledì 18 marzo
+  testo: Rileggi la dispensa del tuo gruppo
+    - url: https://ilquadernodellaprof.github.io/storia/rivindustriale
+      testo: Rivoluzione industriale
+    - url: https://ilquadernodellaprof.github.io/storia/rivamericana
+      testo: Rivoluzione americana
+    - url: https://ilquadernodellaprof.github.io/storia/rivfrancese
+      testo: Rivoluzione francese
+    - url: https://ilquadernodellaprof.github.io/storia/napoleone
+      testo: Napoleone Bonaparte
