@@ -1,11 +1,17 @@
-- titolo: 
-  descrizione: Clicca sul bottone per aprire la dispensa del tuo gruppo.
+- titolo: Lessico specifico della materia
+  descrizione: Alcune parole utili per capire i testi geografici.
   link:
-    - url: https://ilquadernodellaprof.github.io/storia/rivindustriale
-      testo: La rivoluzione industriale
-    - url: https://ilquadernodellaprof.github.io/storia/rivamericana
-      testo: La rivoluzione americana
-    - url: https://ilquadernodellaprof.github.io/storia/rivfrancese
-      testo: La rivoluzione francese
-    - url: https://ilquadernodellaprof.github.io/storia/napoleone
-      testo: Napoleone Bonaparte
+    - url: https://ilquadernodellaprof.github.io/geografia/lessico
+      testo: Apri la pagina
+
+- titolo: Settori economici europei
+  descrizione: Quali sono i principali settori in cui l'Europa primeggia? In queste dispense si approfondisce in particolare il contributo degli Stati su cui stiamo lavorando in classe: Francia, Gran Bretagna, Paesi Bassi, Polonia e Spagna.
+  link:
+    - url: https://ilquadernodellaprof.github.io/geografia/barbabietola
+      testo: La filiera dello zucchero
+    - url: https://ilquadernodellaprof.github.io/geografia/olioburro
+      testo: La filiera dell'olio e del burro
+    - url: https://ilquadernodellaprof.github.io/geografia/farmaco
+      testo: La filiera del farmaco
+    - url: https://ilquadernodellaprof.github.io/geografia/lusso
+      testo: La filiera del lusso e della moda
