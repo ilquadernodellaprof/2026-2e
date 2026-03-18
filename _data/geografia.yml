@@ -1,0 +1,11 @@
+- titolo: 
+  descrizione: Clicca sul bottone per aprire la dispensa del tuo gruppo.
+  link:
+    - url: https://ilquadernodellaprof.github.io/storia/rivindustriale
+      testo: La rivoluzione industriale
+    - url: https://ilquadernodellaprof.github.io/storia/rivamericana
+      testo: La rivoluzione americana
+    - url: https://ilquadernodellaprof.github.io/storia/rivfrancese
+      testo: La rivoluzione francese
+    - url: https://ilquadernodellaprof.github.io/storia/napoleone
+      testo: Napoleone Bonaparte
