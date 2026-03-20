@@ -1,13 +1,17 @@
+- materia: Italiano
+  scadenza: venerdì 25 marzo
+  testo: Leggi questo capitolo di Quando Hitler rubò il coniglio rosa. Trovi il pdf su didattica (registro elettronico).
+
 - materia: Geografia
-  scadenza: mercoledì 18 marzo
-  testo: Rileggi la dispensa sul lusso e la moda in Europa.
+  scadenza: mercoledì 25 marzo
+  testo: Rileggi lo schema sull'ordinamento di questi Stati: Italia, Francia, Spagna, Polonia, Paesi Bassi e Regno Unito. Se lo guardi da cellulare, conviene metterlo in orizzontale.
   link:
-    - url: https://ilquadernodellaprof.github.io/geografia/lusso
-      testo: Apri la dispensa
+    - url: https://ilquadernodellaprof.github.io/geografia/ordinamenti.html
+      testo: Apri lo schema
 
 - materia: Storia
-  scadenza: mercoledì 18 marzo
-  testo: Rileggi la dispensa del tuo gruppo. Cerca su internet dove si trovano i luoghi importanti scelti con i compagni in classe.
+  scadenza: mercoledì 25 marzo
+  testo: Cosa dovranno sapere i tuoi compagni della dispensa che hai studiato? Rileggila e scrivi sul quaderno almeno tre punti fondamentali.
   link:
     - url: https://ilquadernodellaprof.github.io/storia/rivindustriale
       testo: Rivoluzione industriale
@@ -19,8 +23,8 @@
       testo: Napoleone Bonaparte
 
 - materia: Italiano
-  scadenza: venerdì 20 marzo
-  testo: Svolgi gli esercizi sulla prova della staccabilità e il ruolo semantico.
+  scadenza: venerdì 27 marzo
+  testo: Svolgi gli esercizi sul complemento predicativo dell'oggetto.
   link:
-    - url: https://ilquadernodellaprof.github.io/lingua/es/staccabileruolo
+    - url: https://ilquadernodellaprof.github.io/lingua/es/predicativooggetto
       testo: Li trovi qui.
