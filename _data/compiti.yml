@@ -1,17 +1,6 @@
-- materia: Italiano
-  scadenza: venerdì 25 marzo
-  testo: Leggi questo capitolo di Quando Hitler rubò il coniglio rosa. Trovi il pdf su didattica (registro elettronico).
-
-- materia: Geografia
-  scadenza: mercoledì 25 marzo
-  testo: Rileggi lo schema sull'ordinamento di questi Stati: Italia, Francia, Spagna, Polonia, Paesi Bassi e Regno Unito. Se lo guardi da cellulare, conviene metterlo in orizzontale.
-  link:
-    - url: https://ilquadernodellaprof.github.io/geografia/ordinamenti.html
-      testo: Apri lo schema
-
 - materia: Storia
-  scadenza: mercoledì 25 marzo
-  testo: Cosa dovranno sapere i tuoi compagni della dispensa che hai studiato? Rileggila e scrivi sul quaderno almeno tre punti fondamentali.
+  scadenza: venerdì 27 marzo
+  testo: Scegli una cosa (una sola) della tua dispensa da raccontare in 5 minuti ai tuoi compagni. Fai la prova a casa per capire se ci metti davvero 5 minuti. Se ci metti di meno è troppo poco. Se ci metti di più è troppo.
   link:
     - url: https://ilquadernodellaprof.github.io/storia/rivindustriale
       testo: Rivoluzione industriale
@@ -24,7 +13,7 @@
 
 - materia: Italiano
   scadenza: venerdì 27 marzo
-  testo: Svolgi gli esercizi sul complemento predicativo dell'oggetto.
+  testo: Svolgi gli esercizi sul complemento predicativo dell'oggetto e il ruolo semantico.
   link:
-    - url: https://ilquadernodellaprof.github.io/lingua/es/predicativooggetto
+    - url: https://ilquadernodellaprof.github.io/lingua/es/predoggruolo
       testo: Li trovi qui.
