@@ -1,19 +1,10 @@
-- materia: Storia
-  scadenza: venerdì 27 marzo
-  testo: Scegli una cosa (una sola) della tua dispensa da raccontare in 5 minuti ai tuoi compagni. Fai la prova a casa per capire se ci metti davvero 5 minuti. Se ci metti di meno è troppo poco. Se ci metti di più è troppo.
+- materia: Italiano
+  scadenza: mercoledì 29 aprile
+  testo: Leggi con attenzione questa guida alla lettura su Goffredo Mameli. Sarà importante per poter leggere assieme le sue poesie. Al suo interno trovi anche alcune anticipazioni di quello che faremo in storia.
   link:
-    - url: https://ilquadernodellaprof.github.io/storia/rivindustriale
-      testo: Rivoluzione industriale
-    - url: https://ilquadernodellaprof.github.io/storia/rivamericana
-      testo: Rivoluzione americana
-    - url: https://ilquadernodellaprof.github.io/storia/rivfrancese
-      testo: Rivoluzione francese
-    - url: https://ilquadernodellaprof.github.io/storia/napoleone
-      testo: Napoleone Bonaparte
+    - url: https://ilquadernodellaprof.github.io/storia/mameli
+      testo: Guida alla lettura di Mameli
 
 - materia: Italiano
-  scadenza: venerdì 27 marzo
-  testo: Svolgi gli esercizi sul complemento predicativo dell'oggetto e il ruolo semantico.
-  link:
-    - url: https://ilquadernodellaprof.github.io/lingua/es/predoggruolo
-      testo: Li trovi qui.
+  scadenza: mercoledì 29 aprile
+  testo: Su un foglio a4 fare lo schema a 5 dita sulla struttura dell'ultimo capitolo letto di Quando Hitler rubò il coniglio rosa (le assenti di venerdì scorso possono farlo sull'ultimo capitolo che ricordano). Sotto allo schema scrivere anche una breve connessione tra il capitolo e il tuo mondo (può essere un collegamento tra la storia e il tuo vissuto o i tuoi pensieri, o tra la storia e altre storie, o tra diverse parti della storia).
