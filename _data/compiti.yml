@@ -1,9 +1,9 @@
-- materia: Italiano
-  scadenza: mercoledì 29 aprile
-  testo: Leggi con attenzione questa guida alla lettura su Goffredo Mameli. Sarà importante per poter leggere assieme le sue poesie. Al suo interno trovi anche alcune anticipazioni di quello che faremo in storia.
+- materia: Storia
+  scadenza: mercoledì 6 maggio
+  testo: Test di storia.
   link:
-    - url: https://ilquadernodellaprof.github.io/storia/mameli
-      testo: Guida alla lettura di Mameli
+    - url: https://ilquadernodellaprof.github.io/storia/es/1800test
+      testo: Vai al test! 
 
 - materia: Italiano
   scadenza: mercoledì 29 aprile
