@@ -5,13 +5,18 @@
     - url: https://ilquadernodellaprof.github.io/storia/es/1800test
       testo: Vai al test! 
 
-- materia: Italiano
-  scadenza: mercoledì 29 aprile
-  testo: Su un foglio a4 fare lo schema a 5 dita sulla struttura dell'ultimo capitolo letto di Quando Hitler rubò il coniglio rosa (le assenti di venerdì scorso possono farlo sull'ultimo capitolo che ricordano). Sotto allo schema scrivere anche una breve connessione tra il capitolo e il tuo mondo (può essere un collegamento tra la storia e il tuo vissuto o i tuoi pensieri, o tra la storia e altre storie, o tra diverse parti della storia).
-
 - materia: Storia
-  scadenza: mercoledì 6 maggio
-  testo: Leggi con attenzione questa dispensa.
+  scadenza: mercoledì 20 maggio
+  testo: Ripassa bene questa dispensa. Puoi aiutarti con le domande d'esempio.
   link:
     - url: https://ilquadernodellaprof.github.io/storia/nazioniimperi
+      testo: Clicca qui!
+    - url: https://ilquadernodellaprof.github.io/storia/domande800
+      testo: Domande
+      
+- materia: Geografia
+  scadenza: mercoledì 20 maggio
+  testo: Valido anche per Storia ed Educazione civica. Leggi bene questo testo e poi prepara un testo per difendere l'argomento assegnato al tuo gruppo.
+  link:
+    - url: https://ilquadernodellaprof.github.io/geografia/varietate
       testo: Clicca qui!
